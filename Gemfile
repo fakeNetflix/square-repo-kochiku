@@ -6,7 +6,7 @@ gem 'activemodel-serializers-xml' # required for xml serialization
 gem 'rails-controller-testing' # Included to provide 'assigns' method
 
 gem 'dynamic_form'
-gem 'passenger', '~> 4.0.41', group: :production
+gem 'passenger', '~> 5.3.2', group: :production
 gem 'rails', '~> 5.1.0'
 gem 'rails-observers'
 
